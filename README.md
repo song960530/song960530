@@ -2,8 +2,9 @@
   
   ![header](https://capsule-render.vercel.app/api?type=slice&amp;color=008275&amp;height=200&amp;text=MunjunSong&amp;fontColor=fff&amp;fontAlign=70&amp;rotate=13&amp;fontAlignY=25&amp;desc=Developer&amp;descAlign=70.&amp;descAlignY=44)
   
-  **🏆자주 사용해요🏆**
-
+  ### 🏆자주 사용해요🏆
+  
+  
   <p>
     <a href="#"><img src="https://img.shields.io/badge/-HTML-%23E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp  
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp  
@@ -15,7 +16,7 @@
   </p> 
   <br/>
   
-  **👏자주는 아니지만 사용할줄 알아요👏**
+  ### 👏자주는 아니지만 사용할줄 알아요👏
 
   <p>
     <a href="#"><img src="https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=flat-square&logo=Spring%20Security&logoColor=white"/></a>&nbsp
@@ -28,7 +29,7 @@
   </p>
   <br/>
 
-  **⛏사용하는 툴이에요⛏**
+  ### ⛏사용하는 툴이에요⛏
 
   <p> 
     <a href="#"><img src="https://img.shields.io/badge/-IntelliJ%20IDEA-%23000000?style=flat-square&logo=IntelliJ%20IDEA&logoColor=white"/></a>&nbsp  
@@ -42,7 +43,7 @@
   </p> 
   <br/>
 
-  **🧐요즘 관심 갖고 공부하고 있어요🧐**
+  ### 🧐요즘 관심 갖고 공부하고 있어요🧐
 
   <p>
     <a href="#"><img src="https://img.shields.io/badge/-Hibernate-%2359666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp
@@ -53,7 +54,7 @@
   
   <hr>
   
-  **❤💨**
+  ### ❤💨
 
   [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsong960530&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com)
   <a href="https://www.instagram.com/munjunsong/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
