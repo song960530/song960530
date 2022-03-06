@@ -3,8 +3,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsong960530&count_bg=%2379C83D&title_bg=%235B1FCD&icon=&icon_color=%23FBFBFB&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
 -->
 
-<!-- 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 -->
-
 
 # ✔Skills
 
