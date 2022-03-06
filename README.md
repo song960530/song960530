@@ -24,6 +24,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-Docker-%232496ED?style=flat-square&logo=Docker&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Jenkins-%23D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-NGINX-%23009639?style=flat-square&logo=NGINX&logoColor=white"/></a>&nbsp 
+    <a href="#"><img src="https://img.shields.io/badge/-Travis%20CI-%233EAAAF?style=flat-square&logo=Travis CI&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-CentOS-%23262577?style=flat-square&logo=CentOS&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Python-%233776AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp
