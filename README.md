@@ -12,6 +12,7 @@
     <a href="#"><img src="https://img.shields.io/badge/-jQuery-%230769AD?style=flat-square&logo=jQuery&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Java-%23007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp  
     <a href="#"><img src="https://img.shields.io/badge/-Spring%20Boot-%236DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white"/></a>&nbsp  
+    <a href="#"><img src="https://img.shields.io/badge/-Spring%20Batch-%236DB33F?style=flat-square&logo=%20Boot&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Oracle-%23F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp
   </p> 
   <br/>
