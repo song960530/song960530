@@ -52,8 +52,33 @@
     <a href="#"><img src="https://img.shields.io/badge/-Hibernate-%2359666C?style=flat-square&logo=Hibernate&logoColor=white"/></a>&nbsp
     <a href="#"><img src="https://img.shields.io/badge/-Spring%20Data%20JPA-%236DB33F?style=flat-square&logo=%20Boot&logoColor=white"/></a>&nbsp  
     <a href="#"><img src="https://img.shields.io/badge/-Query%20DSL-informational?style=flat-square&logo=&logoColor=white"/></a>&nbsp
+    <a href="#"><img src="https://img.shields.io/badge/-Spring-%236DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp
+
   </p>
   <br/>
+  
+  <hr>
+  
+  
+  <div align="left">
+    
+JPA
+    
+* 이론 정리 : https://github.com/song960530/JPA-Study <br/>
+* 실습(게시판) : https://github.com/song960530/JPA-BOARD  <br/>
+    
+Spring
+    
+* 이론 정리 : https://github.com/song960530/Spring-Study <br/>
+
+    
+  </div>
+  
+
+
+  
+  
+  
   
   <hr>
   
