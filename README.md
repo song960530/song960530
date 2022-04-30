@@ -71,6 +71,8 @@ Spring
     
 * 이론 정리 : https://github.com/song960530/Spring-Study <br/>
 
+트래픽 관리 (아직 진행하지 않았음 추후 찾아가면서 실습해볼 예정)
+* https://github.com/song960530/how-to-controller-traffic
     
   </div>
   
