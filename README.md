@@ -59,9 +59,9 @@
   
   <hr>
   
-  
+<!--     
   <div align="left">
-    
+ 
 JPA
     
 * 이론 정리 : https://github.com/song960530/JPA-Study <br/>
@@ -77,14 +77,15 @@ Spring
 TIL(Today I Learned)
 * https://github.com/song960530/TIL  <br/>
   </div>
-  
-
-
-  
-  
-  
-  
   <hr>
+-->
+
+
+  
+  
+  
+  
+
   
   ### ❤💨
 
